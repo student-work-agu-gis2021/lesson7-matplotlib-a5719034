@@ -84,6 +84,7 @@ print("Saved my first plot as:", outputfp)
 #Check that the file exists (also go and open the file to check that everything is ok!)
 import os
 
+
 assert os.path.exists(outputfp), "Can't find the output image."
 
 
