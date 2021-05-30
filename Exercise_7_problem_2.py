@@ -68,7 +68,6 @@ ax= selection ['TEMP_C'].plot(
 )
 plt.grid()
 plt.show()
-
 # Set output file name
 outputfp = ""
 
