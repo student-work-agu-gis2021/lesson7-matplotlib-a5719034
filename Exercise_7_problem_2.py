@@ -67,6 +67,7 @@ ax= selection ['TEMP_C'].plot(
   xlabel='Time',ylabel='Temperature(Celsius)'
 )
 plt.grid()
+plt.show()
 
 # Set output file name
 outputfp = ""
